@@ -1,0 +1,16 @@
+h1{
+    font-size: 5em;
+    text-align: center;
+    background-color: #837bc4;
+}
+.lista{
+    font-size: 2em;
+    background-color:#937fbc;
+}
+.pie{
+    background-color: #bd8bc0;
+}
+body{
+    color:white;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

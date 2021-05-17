@@ -1,0 +1,47 @@
+h1{
+    font-size: 5em;
+    text-align: center;
+    background-color: #837bc4;
+}
+h2{
+    font-size: 4em;
+    text-align: center;
+}
+.indice{
+    background-color:#937fbc;
+}
+.mensaje{
+    background-color: #bd8bc0;
+}
+.luvity-paboo {
+    font-size: 2em;
+    color: azure;
+}
+.cravity{
+    background-color: #eb9abb;
+}
+.carrera{
+    background-color: #ffa6ac;
+}
+.integrantes{
+    background-color: #fbc2af;
+}
+.curiosidades{
+    background-color:#fbc2af;
+}
+.redes{
+    background-color: #ffa6ac;
+}
+.tabla{
+    background-color:#eb9abb;
+}
+.registro{
+    background-color: #bd8bc0;
+}
+.pie{
+    background-color: #937fbc;
+}
+body{
+    color:white;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
